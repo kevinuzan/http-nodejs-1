@@ -1,0 +1,323 @@
+{
+  "user": "AGMU2401",
+  "planos": {
+    "TRT-2": {
+      "disciplinas": [
+        {
+          "Direito Administrativo": {
+            "ativo": 1,
+            "cargahoraria": 92,
+            "cargahorariaok": 92,
+            "aulas": 181,
+            "aulasok": 181,
+            "estudos": [
+              {
+                "tipo": "Questões",
+                "subdisciplina": "ADMINISTRAÇÃO PÚBLICA:",
+                "horacorrida": 5,
+                "datetime": "19/06/2024  20:23:01",
+                "questoes": {
+                  "acertos": 0,
+                  "erros": 0
+                },
+                "paginas": [
+                  {
+                    "inicio": 0,
+                    "fim": 0
+                  }
+                ],
+                "videoaulas": [
+                  {
+                    "titulo": "AULA 1",
+                    "inicio": "00:00:00",
+                    "fim": "00:00:00"
+                  }
+                ],
+                "revisao": [
+                  {
+                    "tipo": "Questões",
+                    "horacorrida": 5,
+                    "datetime": "20/06/2024  20:23:01",
+                    "datetimeprogramado": "20/06/2024  20:23:01",
+                    "questoes": {
+                      "acertos": 0,
+                      "erros": 0
+                    },
+                    "paginas": [
+                      {
+                        "inicio": 0,
+                        "fim": 0
+                      }
+                    ],
+                    "videoaulas": [
+                      {
+                        "titulo": "AULA 1",
+                        "inicio": "00:00:00",
+                        "fim": "00:00:00"
+                      }
+                    ]
+                  },
+                  {
+                    "tipo": "Questões",
+                    "horacorrida": 5,
+                    "datetime": "26/06/2024  20:23:01",
+                    "datetimeprogramado": "26/06/2024  20:23:01",
+                    "questoes": {
+                      "acertos": 0,
+                      "erros": 0
+                    },
+                    "paginas": [
+                      {
+                        "inicio": 0,
+                        "fim": 0
+                      }
+                    ],
+                    "videoaulas": [
+                      {
+                        "titulo": "AULA 1",
+                        "inicio": "00:00:00",
+                        "fim": "00:00:00"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "materias": [
+              {
+                "concluido": 0,
+                "ordem": 1,
+                "topico": "ADMINISTRAÇÃO PÚBLICA:",
+                "cargahoraria": 10,
+                "cargahorariaok": 10,
+                "aulas": 2,
+                "aulasok": 2,
+                "subtopico": [
+                  {
+                    "concluido": 0,
+                    "ordem": 1,
+                    "topico": "PRINCÍPIOS BÁSICOS.",
+                    "cargahoraria": 5,
+                    "cargahorariaok": 0,
+                    "aulas": 1,
+                    "aulasok": 0
+                  },
+                  {
+                    "concluido": 0,
+                    "ordem": 2,
+                    "topico": "PRINCÍPIOS FUNDAMENTAIS.",
+                    "cargahoraria": 5,
+                    "cargahorariaok": 0,
+                    "aulas": 1,
+                    "aulasok": 0
+                  }
+                ]
+              },
+              {
+                "concluido": 0,
+                "ordem": 2,
+                "topico": "PODERES ADMINISTRATIVOS: PODER HIERÁRQUICO; PODER DISCIPLINAR; PODER REGULAMENTAR; PODER DE POLÍCIA; USO E ABUSO DO PODER.",
+                "cargahoraria": 20,
+                "cargahorariaok": 20,
+                "aulas": 2,
+                "aulasok": 2
+              },
+              {
+                "concluido": 0,
+                "ordem": 3,
+                "topico": "SERVIÇOS PÚBLICOS: CONCEITO E PRINCÍPIOS; DELEGAÇÃO: CONCESSÃO, PERMISSÃO E AUTORIZAÇÃO.",
+                "cargahoraria": 20,
+                "cargahorariaok": 20,
+                "aulas": 2,
+                "aulasok": 2
+              },
+              {
+                "concluido": 0,
+                "ordem": 4,
+                "topico": "ATO ADMINISTRATIVO: CONCEITO, REQUISITOS E ATRIBUTOS; ANULAÇÃO, REVOGAÇÃO E CONVALIDAÇÃO; DISCRICIONARIEDADE E VINCULAÇÃO.",
+                "cargahoraria": 20,
+                "cargahorariaok": 20,
+                "aulas": 2,
+                "aulasok": 2
+              },
+              {
+                "concluido": 0,
+                "ordem": 5,
+                "topico": "ORGANIZAÇÃO ADMINISTRATIVA: ADMINISTRAÇÃO DIRETA E INDIRETA; CENTRALIZADA E DESCENTRALIZADA; AUTARQUIAS, FUNDAÇÕES, EMPRESAS PÚBLICAS E SOCIEDADES DE ECONOMIA MISTA. LEI Nº 13.303 (LEI DAS ESTATAIS).",
+                "cargahoraria": 20,
+                "cargahorariaok": 20,
+                "aulas": 2,
+                "aulasok": 2
+              },
+              {
+                "concluido": 0,
+                "ordem": 6,
+                "topico": "ÓRGÃOS PÚBLICOS: CONCEITO, NATUREZA E CLASSIFICAÇÃO.",
+                "cargahoraria": 20,
+                "cargahorariaok": 20,
+                "aulas": 2,
+                "aulasok": 2
+              },
+              {
+                "concluido": 0,
+                "ordem": 7,
+                "topico": "SERVIDORES PÚBLICOS: CARGO, EMPREGO E FUNÇÃO PÚBLICOS.",
+                "cargahoraria": 20,
+                "cargahorariaok": 20,
+                "aulas": 2,
+                "aulasok": 2
+              },
+              {
+                "concluido": 0,
+                "ordem": 8,
+                "topico": "LEI Nº 8.112/90 (REGIME JURÍDICO DOS SERVIDORES PÚBLICOS CIVIS DA UNIÃO): DAS DISPOSIÇÕES PRELIMINARES; DO PROVIMENTO, VACÂNCIA, REMOÇÃO, REDISTRIBUIÇÃO E SUBSTITUIÇÃO. DOS DIREITOS E VANTAGENS: DO VENCIMENTO E DA REMUNERAÇÃO; DAS VANTAGENS; DAS FÉRIAS; DAS LICENÇAS; DOS AFASTAMENTOS; DO DIREITO DE PETIÇÃO. DO REGIME DISCIPLINAR: DOS DEVERES E PROIBIÇÕES; DA ACUMULAÇÃO; DAS RESPONSABILIDADES; DAS PENALIDADES.",
+                "cargahoraria": 20,
+                "cargahorariaok": 20,
+                "aulas": 2,
+                "aulasok": 2
+              },
+              {
+                "concluido": 0,
+                "ordem": 9,
+                "topico": "RESOLUÇÃO CNJ Nº 230, DE 22 DE JUNHO DE 2016.",
+                "cargahoraria": 20,
+                "cargahorariaok": 20,
+                "aulas": 2,
+                "aulasok": 2
+              },
+              {
+                "concluido": 0,
+                "ordem": 10,
+                "topico": "PROCESSO ADMINISTRATIVO (LEI Nº 9.784/99): DAS DISPOSIÇÕES GERAIS; DOS DIREITOS E DEVERES DOS ADMINISTRADOS.",
+                "cargahoraria": 20,
+                "cargahorariaok": 20,
+                "aulas": 2,
+                "aulasok": 2
+              },
+              {
+                "concluido": 0,
+                "ordem": 11,
+                "topico": "CONTROLE E RESPONSABILIZAÇÃO DA ADMINISTRAÇÃO: CONTROLE ADMINISTRATIVO; CONTROLE JUDICIAL; CONTROLE LEGISLATIVO; RESPONSABILIDADE CIVIL DO ESTADO.",
+                "cargahoraria": 20,
+                "cargahorariaok": 20,
+                "aulas": 2,
+                "aulasok": 2
+              },
+              {
+                "concluido": 0,
+                "ordem": 12,
+                "topico": "LEI Nº 8.429, DE 2/6/92: DAS DISPOSIÇÕES GERAIS; DOS ATOS DE IMPROBIDADE ADMINISTRATIVA.",
+                "cargahoraria": 20,
+                "cargahorariaok": 20,
+                "aulas": 2,
+                "aulasok": 2
+              },
+              {
+                "concluido": 0,
+                "ordem": 13,
+                "topico": "LICITAÇÕES E CONTRATOS ADMINISTRATIVOS. LEI Nº 8.666/93: CONCEITO, FINALIDADE, PRINCÍPIOS, OBJETO, OBRIGATORIEDADE, DISPENSA, INEXIGIBILIDADE E VEDAÇÕES, MODALIDADES, PROCEDIMENTOS, ANULAÇÃO E REVOGAÇÃO, SANÇÕES, PREGÃO PRESENCIAL E ELETRÔNICO, SISTEMA DE REGISTRO DE PREÇOS. LEI Nº 10.520/2002. R.D.C. REGIME DIFERENCIADO DE CONTRATAÇÃO. CARACTERÍSTICAS DO CONTRATO ADMINISTRATIVO. FORMALIZAÇÃO E FISCALIZAÇÃO DO CONTRATO. PRESTAÇÃO DE SERVIÇO. TERCEIRIZAÇÃO. ASPECTOS ORÇAMENTÁRIOS E FINANCEIROS DA EXECUÇÃO DO CONTRATO. SANÇÃO ADMINISTRATIVA. EQUILÍBRIO ECONÔMICO-FINANCEIRO. GARANTIA CONTRATUAL. ALTERAÇÃO DO OBJETO. PRORROGAÇÃO DO PRAZO DE VIGÊNCIA E DE EXECUÇÃO.",
+                "cargahoraria": 20,
+                "cargahorariaok": 20,
+                "aulas": 2,
+                "aulasok": 2
+              }
+            ]
+          },
+          "Direito Civil": {},
+          "Direito Constitucional": {},
+          "Direito do Trabalho": {},
+          "Direito Processual Civil": {},
+          "Direito Processual do Trabalho": {},
+          "Língua Portuguesa": {},
+          "Noções de Direito Empresarial": {},
+          "Noções de Direito Penal": {},
+          "Noções de Direito Previdenciário": {},
+          "Raciocínio Lógico": {}
+        }
+      ],
+      "Direito Administrativo": [
+        "1. ADMINISTRAÇÃO PÚBLICA: PRINCÍPIOS BÁSICOS.",
+        "2. PODERES ADMINISTRATIVOS: PODER HIERÁRQUICO; PODER DISCIPLINAR; PODER REGULAMENTAR; PODER DE POLÍCIA; USO E ABUSO DO PODER.",
+        "3. SERVIÇOS PÚBLICOS: CONCEITO E PRINCÍPIOS; DELEGAÇÃO: CONCESSÃO, PERMISSÃO E AUTORIZAÇÃO.",
+        "4. ATO ADMINISTRATIVO: CONCEITO, REQUISITOS E ATRIBUTOS; ANULAÇÃO, REVOGAÇÃO E CONVALIDAÇÃO; DISCRICIONARIEDADE E VINCULAÇÃO.",
+        "5. ORGANIZAÇÃO ADMINISTRATIVA: ADMINISTRAÇÃO DIRETA E INDIRETA; CENTRALIZADA E DESCENTRALIZADA; AUTARQUIAS, FUNDAÇÕES, EMPRESAS PÚBLICAS E SOCIEDADES DE ECONOMIA MISTA. LEI Nº 13.303 (LEI DAS ESTATAIS).",
+        "6. ÓRGÃOS PÚBLICOS: CONCEITO, NATUREZA E CLASSIFICAÇÃO.",
+        "7. SERVIDORES PÚBLICOS: CARGO, EMPREGO E FUNÇÃO PÚBLICOS.",
+        "8. LEI Nº 8.112/90 (REGIME JURÍDICO DOS SERVIDORES PÚBLICOS CIVIS DA UNIÃO): DAS DISPOSIÇÕES PRELIMINARES; DO PROVIMENTO, VACÂNCIA, REMOÇÃO, REDISTRIBUIÇÃO E SUBSTITUIÇÃO. DOS DIREITOS E VANTAGENS: DO VENCIMENTO E DA REMUNERAÇÃO; DAS VANTAGENS; DAS FÉRIAS; DAS LICENÇAS; DOS AFASTAMENTOS; DO DIREITO DE PETIÇÃO. DO REGIME DISCIPLINAR: DOS DEVERES E PROIBIÇÕES; DA ACUMULAÇÃO; DAS RESPONSABILIDADES; DAS PENALIDADES.",
+        "9. RESOLUÇÃO CNJ Nº 230, DE 22 DE JUNHO DE 2016.",
+        "10. PROCESSO ADMINISTRATIVO (LEI Nº 9.784/99): DAS DISPOSIÇÕES GERAIS; DOS DIREITOS E DEVERES DOS ADMINISTRADOS.",
+        "11. CONTROLE E RESPONSABILIZAÇÃO DA ADMINISTRAÇÃO: CONTROLE ADMINISTRATIVO; CONTROLE JUDICIAL; CONTROLE LEGISLATIVO; RESPONSABILIDADE CIVIL DO ESTADO.",
+        "12. LEI Nº 8.429, DE 2/6/92: DAS DISPOSIÇÕES GERAIS; DOS ATOS DE IMPROBIDADE ADMINISTRATIVA.",
+        "13. LICITAÇÕES E CONTRATOS ADMINISTRATIVOS. LEI Nº 8.666/93: CONCEITO, FINALIDADE, PRINCÍPIOS, OBJETO, OBRIGATORIEDADE, DISPENSA, INEXIGIBILIDADE E VEDAÇÕES, MODALIDADES, PROCEDIMENTOS, ANULAÇÃO E REVOGAÇÃO, SANÇÕES, PREGÃO PRESENCIAL E ELETRÔNICO, SISTEMA DE REGISTRO DE PREÇOS. LEI Nº 10.520/2002. R.D.C. REGIME DIFERENCIADO DE CONTRATAÇÃO. CARACTERÍSTICAS DO CONTRATO ADMINISTRATIVO. FORMALIZAÇÃO E FISCALIZAÇÃO DO CONTRATO. PRESTAÇÃO DE SERVIÇO. TERCEIRIZAÇÃO. ASPECTOS ORÇAMENTÁRIOS E FINANCEIROS DA EXECUÇÃO DO CONTRATO. SANÇÃO ADMINISTRATIVA. EQUILÍBRIO ECONÔMICO-FINANCEIRO. GARANTIA CONTRATUAL. ALTERAÇÃO DO OBJETO. PRORROGAÇÃO DO PRAZO DE VIGÊNCIA E DE EXECUÇÃO."
+      ],
+      "Direito Civil": [
+        "1. LEI.",
+        "1.1. EFICÁCIA DA LEI.",
+        "1.2. APLICAÇÃO DA LEI NO TEMPO E NO ESPAÇO.",
+        "1.3. INTERPRETAÇÃO DA LEI.",
+        "1.4. LEI DE INTRODUÇÃO ÀS NORMAS DO DIREITO BRASILEIRO.",
+        "2. DAS PESSOAS NATURAIS:",
+        "2.1. DA PERSONALIDADE.",
+        "2.2. DA CAPACIDADE.",
+        "3. DOS DIREITOS DA PERSONALIDADE.",
+        "4. DAS PESSOAS JURÍDICAS.",
+        "5. DOMICÍLIO CIVIL.",
+        "6. BENS.",
+        "7. DOS FATOS JURÍDICOS:",
+        "7.1. DOS NEGÓCIOS JURÍDICOS;",
+        "7.2. DOS ATOS JURÍDICOS LÍCITOS.",
+        "7.3. DOS ATOS ILÍCITOS.",
+        "8. PRESCRIÇÃO E DECADÊNCIA.",
+        "9. DO DIREITO DAS OBRIGAÇÕES.",
+        "10. DOS CONTRATOS:",
+        "10.1. DAS DISPOSIÇÕES GERAIS;",
+        "10.2. DA COMPRA E VENDA;",
+        "10.3. DA PRESTAÇÃO DE SERVIÇO;",
+        "10.4. DO MANDATO;",
+        "10.5. DA TRANSAÇÃO.",
+        "11. EMPREITADA (CAP. VIII DO TÍTULO VI DO CC).",
+        "12. DA RESPONSABILIDADE CIVIL.",
+        "13. DO PENHOR, DA HIPOTECA E DA ANTICRESE."
+      ],
+      "Direito Constitucional": [],
+      "Direito do Trabalho": [],
+      "Direito Processual Civil": [],
+      "Direito Processual do Trabalho": [],
+      "Língua Portuguesa": [],
+      "Noções de Direito Empresarial": [],
+      "Noções de Direito Penal": [],
+      "Noções de Direito Previdenciário": [],
+      "Raciocínio Lógico": []
+    },
+    "TRT-12": {
+      "disciplinas": [
+        "Direito Administrativo",
+        "Direito Civil",
+        "Direito Constitucional",
+        "Direito do Trabalho",
+        "Direito Processual Civil",
+        "Direito Processual do Trabalho",
+        "Língua Portuguesa",
+        "Noções de Direito Empresarial",
+        "Noções de Direito Penal",
+        "Noções de Direito Previdenciário",
+        "Raciocínio Lógico"
+      ]
+    },
+    "TRF-3": {
+      "disciplinas": [
+        "Direito Administrativo",
+        "Direito Civil",
+        "Direito Constitucional",
+        "Direito do Trabalho",
+        "Direito Processual Civil",
+        "Direito Processual do Trabalho",
+        "Língua Portuguesa",
+        "Noções de Direito Empresarial",
+        "Noções de Direito Penal",
+        "Noções de Direito Previdenciário",
+        "Raciocínio Lógico"
+      ]
+    }
+  }
+}
